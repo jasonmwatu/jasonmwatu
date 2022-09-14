@@ -1,13 +1,11 @@
-# Jason Mwatu
+# Jason Mwatu (Developer)
 
 ## About Me
  👋 Hi, I’m @jasonmwatu, a forever learning developer from Kenya 🐱‍🏍
-## My Interests
  👀 I’m interested in Full-Stack web development
-## Current Journey
  🌱 I’m currently learning React Js and Laravel
-## Projects Wishlist
  💞️ I’m looking to collaborate on full-stack projects that are fun even if they are based on languages other than PHP or Js, which I currently know.
+ 
 ## Talk to Me
  📫 Send an email to jasonmwatu@gmail.com to reach me ✌
 
