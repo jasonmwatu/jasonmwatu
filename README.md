@@ -5,9 +5,9 @@
  
  👀 I’m interested in Full-Stack web development
  
- 🌱 I’m currently learning React JS, Django and Laravel
+ 🌱 I’m currently learning Django and Laravel
  
- 💞️ I’m looking to collaborate on full-stack projects that are fun even if they are based on languages other than PHP or JavaScript, which I currently know.
+ 💞️ I’m looking to collaborate on full-stack projects that are fun even if they are based on languages/frameworks other than ReactJS, PHP, or JavaScript, which I currently know.
  
 ## Talk to Me
  📫 Send an email to jasonmwatu@gmail.com to reach me ✌
@@ -16,6 +16,7 @@
 ### Proficient
 - PHP
 - Javascript
+- ReactJS
 - Python
 ### Understands
 - C
