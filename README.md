@@ -12,7 +12,7 @@
 ## Talk to Me
  📫 Send an email to jasonmwatu@gmail.com to reach me ✌
 
-## Languages
+## Languages/Frameworks
 ### Proficient
 - PHP
 - Javascript
@@ -22,6 +22,9 @@
 - C
 - Ruby
 - Java
+- WordPress
+- Lumen
+- Django
 
 <!---
 jasonmwatu/jasonmwatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
