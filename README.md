@@ -1,7 +1,7 @@
 # Jason Mwatu (Developer)
 
 ## About Me
- 👋 Hi, I’m @jasonmwatu, a forever learning developer from Kenya 🐱‍🏍
+ 👋 Hi, I’m @jasonmwatu, a forever learner and web developer from Kenya 🐱‍🏍
  
  👀 I’m interested in Full-Stack web development
 
